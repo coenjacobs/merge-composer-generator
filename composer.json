@@ -1,0 +1,17 @@
+{
+    "name": "coenjacobs/merge-composer-generator",
+    "authors": [
+        {
+            "name": "Coen Jacobs",
+            "email": "coenjacobs@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CoenJacobs\\MergeComposerGenerator\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.6"
+    }
+}
